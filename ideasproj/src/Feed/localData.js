@@ -1,5 +1,4 @@
-{
-    "localData": {
+const localData = {
                 "data1": {
                     "author": "Jack Zhang",
                     "title": "Dining Hall Outreach",
@@ -15,5 +14,6 @@
                     "title": "Perspective Cards",
                     "description": "Ask people if they want to do a spiritual activity involving Cru's Perspective cards"
                 }
-    }
-}
+            }
+
+export default localData;
